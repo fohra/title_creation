@@ -132,3 +132,4 @@ dmypy.json
 data/articles1.csv
 data/articles2.csv
 data/articles3.csv
+data/*.npy
